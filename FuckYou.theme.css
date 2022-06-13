@@ -1,0 +1,20 @@
+/**
+ * @name Fuck you
+ * @author frcat.win
+ * @version 1.0.0
+ * @description Remove everything from specfied person
+*/
+
+/**
+ For organization I like to add a comment before each person, you can also remove it, its all you now.
+ You can also add as many people as  you'd like.
+*/
+
+/* Person: Name 1 */
+*[data-author-id="1"],*[data-user-id="1"],*[data-list-item-id="people___1"] {
+    display: none !important;
+}
+/* Person: Name 2 */
+*[data-author-id="2"],*[data-user-id="2"],*[data-list-item-id="people___2"] {
+    display: none !important;
+}
